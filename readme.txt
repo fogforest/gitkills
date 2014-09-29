@@ -4,3 +4,4 @@ fix BUG
 Test the branch merge
 Test the stash in dev
 Test vi command
+Test feature-vulcan
